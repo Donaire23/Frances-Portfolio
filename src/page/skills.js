@@ -1,5 +1,5 @@
 import express from '../images/expressjs.png'
-
+import mongodb from '../images/mongo.png'
 
 const SkillsPage = () => {
   return (
@@ -53,14 +53,11 @@ const SkillsPage = () => {
             </div>
 
             <div className="htmls">
-              <p className="icon"><i class="fa-brands fa-php"></i></p>
-              <p className="tool-text">PHP</p>
+              <p className="icon"><img src={mongodb}  alt='express.js' className='expressjs'/></p>
+             
             </div>
 
-            <div className="htmls">
-              <p className="icon"><i class="fa-brands fa-laravel"></i></p>
-              <p className="tool-text">Laravel</p>
-            </div>
+           
 
             <div className="htmls">
               <p className="icon"><i class="fa-solid fa-database"></i></p>
