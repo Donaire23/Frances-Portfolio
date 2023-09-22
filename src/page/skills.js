@@ -1,5 +1,5 @@
 import express from '../images/expressjs.png'
-import mongodb from '../images/mongo.png'
+import mongodb from '../images/mongodb_logo_icon_145054.png'
 
 const SkillsPage = () => {
   return (
@@ -54,8 +54,10 @@ const SkillsPage = () => {
 
             <div className="htmls">
               <p className="icon"><img src={mongodb}  alt='express.js' className='expressjs'/></p>
-             
+              <p className="tool-text">mongoDB</p>
             </div>
+
+           
 
            
 
