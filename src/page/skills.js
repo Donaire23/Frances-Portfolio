@@ -46,24 +46,30 @@ const SkillsPage = () => {
               <p className="icon"><i class="fa-brands fa-node-js"></i></p>
               <p className="tool-text">Node.js</p>
             </div>
+            <div className="htmls">
+              <p className="icon"><i class="fa-brands fa-php"></i></p>
+              <p className="tool-text">Php</p>
+            </div>
 
             <div className="htmls">
               <p className="icon"><img src={express}  alt='express.js' className='expressjs'/></p>
               <p className="tool-text">Express.js</p>
             </div>
 
+      
             <div className="htmls">
               <p className="icon"><img src={mongodb}  alt='express.js' className='expressjs'/></p>
               <p className="tool-text">mongoDB</p>
             </div>
 
-           
-
-           
-
             <div className="htmls">
               <p className="icon"><i class="fa-solid fa-database"></i></p>
               <p className="tool-text">Mysql</p>
+            </div>
+
+            <div className="htmls">
+              <p className="icon"><i class="fa-brands fa-laravel"></i></p>
+              <p className="tool-text">Laravel</p>
             </div>
             
           </div>
