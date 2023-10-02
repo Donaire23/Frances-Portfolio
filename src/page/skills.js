@@ -1,5 +1,6 @@
 import express from '../images/expressjs.png'
 import mongodb from '../images/mongodb_logo_icon_145054.png'
+import redux from '../images/redux_logo_icon_144932.png'
 
 const SkillsPage = () => {
   return (
@@ -34,6 +35,11 @@ const SkillsPage = () => {
             <div className="htmls">
               <p className="icon"><i class="fa-brands fa-react"></i></p>
               <p className="tool-text">React</p>
+            </div>
+
+            <div className="htmls">
+              <p className="icon"><img src={redux}  alt='express.js' className='expressjs'/></p>
+              <p className="tool-text">Redux</p>
             </div>
 
           </div>
