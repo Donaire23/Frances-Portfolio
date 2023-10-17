@@ -17,25 +17,22 @@ const AboutPage = () => {
             <div className='descrip'>
 
               <h5 className='about-text'>
-              I'm an enthusiastic Junior Full Stack Developer, fueled by a fervent passion for technology and a knack for creative problem-solving. With a degree from Cebu Technological University and training from Kodego's full stack program, I'm primed for success.
+              As a Junior Full Stack Developer, I bring a solid foundation in web development and an unyielding passion for technology. With a degree from Cebu Technological University and training from Kodego's full stack program, I'm well-prepared to tackle diverse challenges in the tech world.
 
               </h5>
 
               <h5 className='about-text'>
-              I excel in crafting captivating user interfaces using HTML, CSS, JavaScript, and React, while my server-side skills encompass Node.js, Express, PHP, and Laravel for seamless solutions.
+              My expertise lies in crafting captivating user interfaces using HTML, CSS, JavaScript, and React. On the server side, I excel in Node.js and Express.js, while my database management skills encompass MongoDB and MySQL. I also have a basic understanding of PHP and Laravel, which I'm actively working to expand. This versatile skill set allows me to deliver seamless and elegant solutions for a wide range of web development projects.
               </h5>
 
              <h5 className='about-text'>
-             But I crave more. I'm diving into diverse languages and frameworks - from Python to Java, Ruby on Rails to Django, C, C++, C#, Angular, Vue - ensuring I'm at the vanguard of industry trends.
+             But my journey doesn't stop here. I'm constantly expanding my skill set, delving into a wide range of languages and frameworks, from Python to Java, Typescript to C++, Ruby on Rails to Django, and more. My dedication to staying at the forefront of industry trends drives my continuous learning.
              </h5>
 
              <h5 className='about-text'>
-             With strong communication and time management skills, I thrive as both a developer and a collaborative team player. In this ever-evolving tech landscape, I'm not a bystander; I'm an engaged creator, a relentless learner, and an eager innovator.
+             My effective communication and time management skills enable me to excel as both an independent developer and a valuable team collaborator. In the dynamic world of technology, I am not merely an observer but an active creator, a continuous learner, and a passionate innovator.
              </h5>
 
-             <h5 className='about-text'>
-             This isn't just a career; it's my boundless journey.
-             </h5>
 
             <button className='view-btn  pt-2 pb-2 pe-4 ps-4 mt-2' onClick={() => {
 
