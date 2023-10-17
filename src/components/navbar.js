@@ -5,7 +5,7 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import logo from '../images/my-logo.png'
-import resume from '../images/Frances_Resume.pdf'
+import resume from '../images/Donaire_Frances_Resume.pdf'
 
 
 const NavBar = () => {
