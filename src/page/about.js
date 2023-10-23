@@ -22,7 +22,7 @@ const AboutPage = () => {
               </h5>
 
               <h5 className='about-text'>
-              My expertise lies in crafting captivating user interfaces using HTML, CSS, JavaScript, and React. On the server side, I excel in Node.js and Express.js, while my database management skills encompass MongoDB and MySQL. I also have a basic understanding of PHP and Laravel, which I'm actively working to expand. This versatile skill set allows me to deliver seamless and elegant solutions for a wide range of web development projects.
+              My expertise lies in crafting captivating user interfaces using HTML, CSS, JavaScript, React.js, Next.js. On the server side, I excel in Node.js and Express.js, while my database management skills encompass MongoDB and MySQL. I also have a basic understanding of PHP and Laravel, which I'm actively working to expand. This versatile skill set allows me to deliver seamless and elegant solutions for a wide range of web development projects.
               </h5>
 
              <h5 className='about-text'>

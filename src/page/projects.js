@@ -143,7 +143,7 @@ const Projects = () => {
           <div className='deja-btn pb-5'>
             <a href='#'><button onClick={() => {
               window.alert("Not Deployed and run only on localhost")
-            }}>Live Site</button></a>
+            }} className='live-btn'>Live Site</button></a>
             <a href='https://github.com/Donaire23/online-medical-consultation/tree/main/Health%2B%2B(Final)'><button>Github Repository</button></a>
           </div>
           
@@ -172,7 +172,7 @@ const Projects = () => {
           <div className='deja-btn pb-5'>
             <a href='#'><button onClick={() => {
               window.alert("Not Deployed and run only on localhost")
-            }}>Live Site</button></a>
+            }} className='live-btn'>Live Site</button></a>
             <a href='https://github.com/Donaire23/royal-tote-bags'><button>Github Repository</button></a>
           </div>
 
@@ -198,9 +198,14 @@ const Projects = () => {
             </div>
 
             <div className='deja-btn pb-5'>
-              <a href='#'><button onClick={() => {
+              <a href='#'>
+                
+              <button onClick={() => {
+
                 window.alert("Not Deployed and run only on localhost")
-              }}>Live Site</button></a>
+
+              }} className='live-btn'>Live Site</button></a>
+
               <a href='https://github.com/Donaire23/life.etc'><button>Github Repository</button></a>
             </div>
 

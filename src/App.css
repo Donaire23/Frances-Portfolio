@@ -5,6 +5,7 @@
   font-family: 'Rubik', sans-serif;
   background-color: #F8F8F8;
 }
+
 .home-container {
   background-color: #F8F8F8;
 }
@@ -774,3 +775,6 @@ a {
   }
 }
 
+.live-btn {
+  text-decoration: line-through;
+}
