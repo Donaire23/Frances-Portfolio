@@ -83,6 +83,16 @@ const SkillsPage = () => {
               <p className="icon"><i class="fa-brands fa-laravel"></i></p>
               <p className="tool-text">Laravel</p>
             </div>
+
+            <div className="htmls">
+              <p className="icon"><i class="fa-brands fa-java"></i></p>
+              <p className="tool-text">Java EE</p>
+            </div>
+
+            <div className="htmls">
+              <p className="icon"><i class="fa-solid fa-power-off"></i></p>
+              <p className="tool-text">Spring Boot</p>
+            </div>
             
           </div>
 

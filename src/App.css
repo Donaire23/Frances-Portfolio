@@ -319,6 +319,9 @@ a {
   .fa-html5, .fa-css3-alt, .fa-bootstrap, .fa-square-js, .fa-react, .fa-node-js, .fa-php, .fa-laravel, .fa-database {
     font-size: 35px;
   }
+  .fa-java, .fa-power-off {
+    font-size: 35px;
+  }
   .expressjs {
     width: 35px;
   }
