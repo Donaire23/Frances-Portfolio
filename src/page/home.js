@@ -25,7 +25,7 @@ const Home = () => {
               </h1>
 
               <h2 className='text2 col-lg-12'>
-              an enthusiastic junior full-stack web developer. My passion lies in crafting impactful websites that connect people and make a difference. With a deep love for technology and a creative flair, I'm dedicated to building meaningful online experiences.
+              an enthusiastic junior full-stack software developer. My passion lies in crafting impactful websites that connect people and make a difference. With a deep love for technology and a creative flair, I'm dedicated to building meaningful online experiences.
               </h2>
 
                 <a href="#proj"  className="see-link pt-4"> 
