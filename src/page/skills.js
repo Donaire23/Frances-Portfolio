@@ -84,7 +84,7 @@ const SkillsPage = () => {
               <p className="tool-text">Laravel</p>
             </div>
 
-            <div className="htmls">
+            {/* <div className="htmls">
               <p className="icon"><i class="fa-brands fa-java"></i></p>
               <p className="tool-text">Java EE</p>
             </div>
@@ -92,7 +92,7 @@ const SkillsPage = () => {
             <div className="htmls">
               <p className="icon"><i class="fa-solid fa-power-off"></i></p>
               <p className="tool-text">Spring Boot</p>
-            </div>
+            </div> */}
             
           </div>
 
